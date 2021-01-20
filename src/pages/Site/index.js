@@ -80,7 +80,7 @@ function Site({ match: { params } }) {
       {!URLData ? (
         <Text>Loading</Text>
       ) : (
-        <Box w={screenWidth} bg={"blue.50"} p={8}>
+        <Box w={screenWidth} bg={"blue.50"} p={8} rounded="md">
           <Stack direction="row" justifyContent="space-between" wrap="wrap">
             <HStack align="center" justify="center" wrap="wrap">
               <Text fontWeight="bold" textAlign="center">
