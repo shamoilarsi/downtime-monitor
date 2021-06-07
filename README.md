@@ -2,6 +2,10 @@
 
 Deployed at - [https://downtime-monitor.web.app/](https://downtime-monitor.web.app/)
 
+## Screenshots
+![home-page](https://github.com/shamoilarsi/downtime-monitor/blob/master/readme/s1.png)
+![details-page](https://github.com/shamoilarsi/downtime-monitor/blob/master/readme/s2.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
